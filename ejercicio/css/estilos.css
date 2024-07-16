@@ -1,7 +1,10 @@
 h1{
-    color: rgb(4, 0, 255); 
+    color: blue; 
  }
  p{
-     color: rgb(255, 255, 255);
-     background-color: crimson;     
+     color: white;
+     background-color: crimson;
+     padding: 15px;
+     border: 10px solid powderblue;
+     margin: 50px;     
  }
