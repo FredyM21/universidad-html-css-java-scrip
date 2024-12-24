@@ -1,0 +1,24 @@
+/*Box Model Manejo de padding border y margin en Css-->*/
+/*Manejo de paleta de colores al traer un color ejemplo c1121f le tenemos que agregar #
+para que recien tome el color correspondiente. Pagina de paleta de colores 
+COOLORS.CO*/
+body{
+    background-color: #fdf0d5;
+}
+h1{
+    color: #003049;
+    text-align: center; 
+}
+p{
+    color: #fdf0d5;
+    background-color: #c1121f;
+    padding: 15px;
+    border: 10px solid #669bbc;
+    /*margin-top: 40px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;*/
+    /*margin: 20px 10px; /*este margin e aplica 20px a top y bottom, 10px rigth y left*/ 
+    margin: auto 50px;
+    text-align: center;
+}
